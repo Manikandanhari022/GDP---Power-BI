@@ -1,1 +1,2 @@
-# GDP---Power-BI
+GDP---Power-BI
+The objective of this analysis is to explain GDP and its significance in measuring a country’s economic performance. It explores the relationship between GDP, population, literacy rate, and infant mortality, highlighting their interconnected impact on development. By analysing key economic indicators, the presentation aims to provide insights into how these factors influence overall growth and living standards. Additionally, it emphasizes the importance of data-driven policies for sustainable economic progress.
